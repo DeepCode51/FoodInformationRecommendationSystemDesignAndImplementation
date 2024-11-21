@@ -15,18 +15,18 @@ Java美食推荐系统：角色分为管理员、用户；功能包括菜谱浏�
 
 
 ## 运行截图
-![](img/001.jpg)
-![](img/002.jpg)
-![](img/003.jpg)
-![](img/004.jpg)
-![](img/005.jpg)
-![](img/006.jpg)
-![](img/007.jpg)
-![](img/008.jpg)
-![](img/009.jpg)
-![](img/010.jpg)
-![](img/011.jpg)
-![](img/012.jpg)
-![](img/013.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/001.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/002.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/003.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/004.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/005.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/006.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/007.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/008.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/009.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/010.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/011.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/012.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/spring/FoodInformationRecommendationSystemDesignAndImplementation/img/013.jpg)
 
 <p>本代码来源于网络,仅供学习参考使用!</p>
